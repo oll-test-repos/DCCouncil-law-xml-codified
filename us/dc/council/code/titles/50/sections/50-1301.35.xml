@@ -29,9 +29,10 @@
     <annotation type="Prior Codifications">1973 Ed., § 40-451.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-435.</annotation>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§3|(c)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§3|(c)">§ 3(c) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(c)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(c)" target-path="§3|(c)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§3|(c)" target-path="§50-1301.35" type="History"/>
     <annotation doc="D.C. Act 26-273" path="§2" type="Applicability" app="2026-03-04" eff="2026-03-04">Section 2 of <cite doc="D.C. Act 26-273" path="§2">D.C. Act 26-273</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-161" path="§3|(c)">section 3(c) of D.C. Law 25-161</cite> shall apply as of March 4, 2026. Therefore those amendments have been implemented.
          </annotation>
-    <annotation app="2026-03-04" doc="D.C. Act 26-273" eff="2026-03-04" path="§2" type="History"/>
+    <annotation app="2026-03-04" doc="D.C. Act 26-273" eff="2026-03-04" path="§2" target-path="§50-1301.35" type="History"/>
   </annotations>
 </section>
